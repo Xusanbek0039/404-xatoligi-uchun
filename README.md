@@ -1,7 +1,7 @@
 # 404-xatoligi-uchun
 404-pages Not fonunf fro errors
 
-404
+**404**
 ![Rasm](https://github.com/Xusanbek0071/404-xatoligi-uchun/blob/main/skrens/Screenshot%202023-12-18%20204348.png)
 
 HTML Code Example
@@ -10,7 +10,7 @@ HTML Code Example
 CSS Code
 ![CSS](https://github.com/Xusanbek0071/404-xatoligi-uchun/blob/main/skrens/Screenshot%202023-12-18%20204816.png)
 
-Codes HTML, CSS
+# Codes HTML, CSS
 
 ```
 <!-- Suyunov Husan -->
