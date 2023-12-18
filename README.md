@@ -4,5 +4,8 @@
 404
 ![Rasm](https://github.com/Xusanbek0071/404-xatoligi-uchun/blob/main/skrens/Screenshot%202023-12-18%20204348.png)
 
-Codes
-![]()
+HTML Code Example
+![HTML](https://github.com/Xusanbek0071/404-xatoligi-uchun/blob/main/skrens/Screenshot%202023-12-18%20204604.png)
+
+CSS Code
+![CSS]()
